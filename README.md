@@ -44,4 +44,4 @@ env = UnityEnvironment(file_name='/data/Reacher_Linux_NoVis/Reacher.x86_64')
 
 # Acknowledgement
 
-I consulted this GitHub repository ([link](https://github.com/gheeraej/Udacity-Continuous-control/tree/master)) when I adapted the algorithm to the configuration with 20 learning agents.
+I adapted an implementation of DDPG with OpenAI Gym's BipedalWalker environment ([link](https://github.com/udacity/deep-reinforcement-learning/tree/master/ddpg-bipedal)) to develop my learning algorithm. I consulted this GitHub repository ([link](https://github.com/gheeraej/Udacity-Continuous-control/tree/master)) when I adapted the algorithm to the configuration with 20 learning agents.
